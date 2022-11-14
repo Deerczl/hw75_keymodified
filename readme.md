@@ -5,6 +5,7 @@
  一并封装好了exe文件可直接运行，若不需要可在任务栏中退出（图标为一棵树）
  
  1. volume_slow文件夹中提供了减缓触摸条响应速度的功能，避免“一键耳聋”
- 2. 预计再提供Pgup和Pgdn改Home和End的功能，看需求吧
+ 2. key_change文件夹中提供Pgup和Pgdn改Home和End的功能
+ 3. 实际上我还把Pause改成了Ctrl+S快捷键，但不是很通用就先不传上来吧
 
 ### autohotkey 仅提供Win支持
